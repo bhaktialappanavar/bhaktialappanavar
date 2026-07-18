@@ -54,6 +54,13 @@ Postman
 • Django
 
 
+## 📊 GitHub Stats
+
+![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaktialappanavar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktialappanavar&layout=compact&theme=tokyonight)
+
+
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/bhakti-alappanavar/
