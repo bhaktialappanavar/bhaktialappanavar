@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm Bhakti Alappanavar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+%7C+Flask+Developer;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ### Python Full Stack Developer | AI Enthusiast | 2026 Graduate
