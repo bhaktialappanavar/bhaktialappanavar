@@ -54,20 +54,11 @@ Postman
 • Django
 
 
-## 📊 GitHub Stats
-
-![Bhakti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaktialappanavar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktialappanavar&layout=compact&theme=tokyonight)
-
-
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/bhakti-alappanavar/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://leetcode.com/u/TmDghKirsO/)
 
-Email: bhaktialappanavar799@gmail.com
-
-Github: https://github.com/bhaktialappanavar/
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaktialappanavar799@gmail.com)
 
 
 
